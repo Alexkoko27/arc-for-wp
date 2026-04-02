@@ -14,7 +14,7 @@ Adds a clean "Buy" button + QR code for mobile payments. No WooCommerce required
 
 ### Installation
 
-1. Go to the [Releases](https://github.com/Alekoko27/arc-for-wp/releases) section
+1. Go to the [Releases](https://github.com/Alexkoko27/arc-for-wp/releases/tag/v1-0-0) section
 2. Download the latest `arc-for-wp.zip`
 3. In your WordPress admin panel go to **Plugins → Add New → Upload Plugin**
 4. Upload and activate the plugin
@@ -24,7 +24,7 @@ Adds a clean "Buy" button + QR code for mobile payments. No WooCommerce required
 ```php
 [arc_buy price="9.99" title="Test Coffee"]
 ```
-### Usage Examples php
+### Usage Examples
 ```
 [arc_buy price="29.00" title="Monthly Premium Access"]
 
